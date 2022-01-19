@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+    apps:
+        build: 
+            context: .
+            dockerfile: Dockerfile
+            args:
+                PHP_VERSION: 7.4-fpm-alpine
+        image: apps:release
+        container_name: setara_apps
+        volumes: 
+            - ./ssl:/var/www/ssl
+        ports:
+            - 80:8080
+        networks: 
+            - setara_network
+        # depends_on: 
+        #     - setara_mongo_db
+
+    # setara_mongo_db:
+    #     image: mongo:latest
+    #     container_name: setara_mongo_db
+    #     environment:
+    #         - MONGO_INITDB_ROOT_USERNAME=${MONGO_USER}
+    #         - MONGO_INITDB_ROOT_PASSWORD=${MONGO_PASSWORD}
+    #     volumes:
+    #         # - ./db/init_mongo.js:/docker-entrypoint-initdb.d/init_mongo.js:ro
+    #         - setara_mongo_data:/data/db
+    #     ports:
+    #         - 27017:27017
+    #     networks:
+    #         - setara_network
+
+volumes:
+    setara_mongo_data:
+        name: setara_mongo_data
+
+networks:
+    setara_network:
+        name: setara_network

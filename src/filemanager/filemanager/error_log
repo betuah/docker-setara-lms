@@ -1,0 +1,150 @@
+[07-Jan-2020 05:16:26 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/phone...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/phone...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1483): create_img('../source/phone...', '../thumbs/phone...', 122, 91)
+#3 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1432): UploadHandler->onUploadEnd(Array)
+#4 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(213): UploadHandler->post(false)
+#5 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(197): UploadHandler->initialize()
+#6 /home/webid/ihsan-fauzi.web-apps.id/filemanager/upload.php(179): UploadHandler->__construct(Array, true, Array)
+#7 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:17:00 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/phone...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/phone...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/phone...', '../thumbs/phone...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:17:13 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/phone...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/phone...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/phone...', '../thumbs/phone...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:17:22 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-mtk...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-mtk...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1483): create_img('../source/c-mtk...', '../thumbs/c-mtk...', 122, 91)
+#3 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1432): UploadHandler->onUploadEnd(Array)
+#4 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(213): UploadHandler->post(false)
+#5 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(197): UploadHandler->initialize()
+#6 /home/webid/ihsan-fauzi.web-apps.id/filemanager/upload.php(179): UploadHandler->__construct(Array, true, Array)
+#7 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:18:18 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-mtk...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-mtk...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/c-mtk...', '../thumbs/c-mtk...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:18:53 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-mtk...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-mtk...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/c-mtk...', '../thumbs/c-mtk...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:19:16 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-eko...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-eko...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1483): create_img('../source/c-eko...', '../thumbs/c-eko...', 122, 91)
+#3 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1432): UploadHandler->onUploadEnd(Array)
+#4 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(213): UploadHandler->post(false)
+#5 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(197): UploadHandler->initialize()
+#6 /home/webid/ihsan-fauzi.web-apps.id/filemanager/upload.php(179): UploadHandler->__construct(Array, true, Array)
+#7 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:19:34 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-eko...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-eko...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/c-eko...', '../thumbs/c-eko...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:19:49 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-eko...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-eko...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/c-eko...', '../thumbs/c-eko...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:20:38 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-eko...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-eko...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/c-eko...', '../thumbs/c-eko...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:21:37 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/c-eko...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/c-eko...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/c-eko...', '../thumbs/c-eko...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:23:18 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/cover...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/cover...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1483): create_img('../source/cover...', '../thumbs/cover...', 122, 91)
+#3 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1432): UploadHandler->onUploadEnd(Array)
+#4 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(213): UploadHandler->post(false)
+#5 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(197): UploadHandler->initialize()
+#6 /home/webid/ihsan-fauzi.web-apps.id/filemanager/upload.php(179): UploadHandler->__construct(Array, true, Array)
+#7 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:23:38 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/cover...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/cover...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/cover...', '../thumbs/cover...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:25:09 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/22.jp...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/22.jp...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1483): create_img('../source/22.jp...', '../thumbs/22.jp...', 122, 91)
+#3 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1432): UploadHandler->onUploadEnd(Array)
+#4 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(213): UploadHandler->post(false)
+#5 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(197): UploadHandler->initialize()
+#6 /home/webid/ihsan-fauzi.web-apps.id/filemanager/upload.php(179): UploadHandler->__construct(Array, true, Array)
+#7 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:25:12 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/22.jp...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/22.jp...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/22.jp...', '../thumbs/22.jp...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:37:15 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/png_b...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/png_b...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1483): create_img('../source/png_b...', '../thumbs/png_b...', 122, 91)
+#3 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(1432): UploadHandler->onUploadEnd(Array)
+#4 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(213): UploadHandler->post(false)
+#5 /home/webid/ihsan-fauzi.web-apps.id/filemanager/UploadHandler.php(197): UploadHandler->initialize()
+#6 /home/webid/ihsan-fauzi.web-apps.id/filemanager/upload.php(179): UploadHandler->__construct(Array, true, Array)
+#7 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:37:18 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/png_b...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/png_b...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/png_b...', '../thumbs/png_b...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723
+[07-Jan-2020 05:46:02 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php(230): imageLib->openImage('../source/png_b...')
+#1 /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/utils.php(425): imageLib->__construct('../source/png_b...')
+#2 /home/webid/ihsan-fauzi.web-apps.id/filemanager/dialog.php(1083): create_img('../source/png_b...', '../thumbs/png_b...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home/webid/ihsan-fauzi.web-apps.id/filemanager/include/php_image_magician.php on line 2723

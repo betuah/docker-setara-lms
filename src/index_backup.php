@@ -1,0 +1,2 @@
+<html><title>:: Family Attack Cyber ::</title> <br> <center> <link href="https://fonts.googleapis.com/css?family=Iceland" rel='stylesheet' type='text/css'>
+<img src="https://4.bp.blogspot.com/-LQOtERmIAxA/WiM3Jr3dLEI/AAAAAAAAAL0/Vx30V_sYOL0vN5y6Y8PELe9kOc6E3iBwwCLcBGAs/s1600/1510446879627.png" width="420" height="420" /> <br> <font size='6' font face='Iceland' ><b>MAINTENANCE WEBSITE</b></font> <br> <font size='3' font face='Iceland' ><b>FAMILY ATTACK CYBER</b></font> <br> <font size='3' font face='Iceland' >COPYRIGHT &copy; 2018</font> <br><html>

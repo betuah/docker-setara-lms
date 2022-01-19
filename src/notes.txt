@@ -1,0 +1,45 @@
+db.tugas.find().forEach(function(doc){
+	db.tugas.update({ "_id": doc._id }, { "$set": { "begin": doc.deadline } });
+});
+
+index.php
+kelas.php
+setting-profile.php
+tugas.php
+create-quiz.php
+quiz-action.php
+create-ujian.php
+ujian-start.php
+ujian.php
+create-uji.php
+uji-start.php
+uji.php
+setting/controller/Sekolah.php
+setting/controller/Kelas.php
+setting/controller/Profile.php
+setting/controller/Tugas.php
+setting/controller/Quiz.php
+includes/option-sekolah.php
+includes/header-menu.php
+includes/footer-top.php
+includes/footer-top-evaluasi.php
+url-API/Kelas/index.php
+url-API/Kelas/Mapel/index.php
+url-API/Kelas/Modul/Tugas/index.php
+url-API/Kelas/Modul/Quiz/index.php
+url-API/Kelas/Modul/Quiz/Soal/Load/index.php
+
+$FuncProfile['sekolah']
+
+{
+    "name": "seTARA-dev",
+    "host": "10.10.10.25",
+    "protocol": "sftp",
+    "port": 22,
+    "username": "root",
+    "password": "k1n1kum4n",
+    "remotePath": "/home/lms/lms/",
+    "uploadOnSave": true
+}
+
+"id_sekolah"=>$_SESSION['lms_sekolah'],
