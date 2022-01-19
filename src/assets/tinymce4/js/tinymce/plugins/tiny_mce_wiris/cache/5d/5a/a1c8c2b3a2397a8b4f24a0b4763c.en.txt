@@ -1,0 +1,1 @@
+open square brackets table row cell 2 x plus 6 y end cell 5 row 3 cell 3 x minus z end cell end table close square brackets plus open square brackets table row cell 2 z end cell cell z plus y end cell row cell 4 y end cell 2 end table close square brackets equals open square brackets table row 12 4 row 11 14 end table close square brackets

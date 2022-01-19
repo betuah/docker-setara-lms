@@ -1,0 +1,6 @@
+limit as x rightwards arrow 1 of fraction numerator 2 x squared minus x minus 1 over denominator x squared plus 3 x minus 4 end fraction
+A. space 3 over 5
+B. space 2 over 3
+C. space 4 over 5
+D. space 1
+E. space 2

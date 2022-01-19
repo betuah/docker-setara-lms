@@ -1,0 +1,1 @@
+fraction numerator open parentheses a to the power of negative 1 end exponent b squared close parentheses cubed over denominator a to the power of negative 9 end exponent b cubed end fraction

@@ -1,0 +1,1 @@
+fraction numerator a over denominator square root of b end fraction equals fraction numerator a over denominator square root of b end fraction cross times fraction numerator square root of b over denominator square root of b end fraction equals fraction numerator a square root of b over denominator square root of b end fraction equals a over b square root of b

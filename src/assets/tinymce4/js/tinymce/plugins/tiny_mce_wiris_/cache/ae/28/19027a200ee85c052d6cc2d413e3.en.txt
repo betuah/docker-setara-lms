@@ -1,0 +1,5 @@
+1. space square root of x plus 3 end root less or equal than 3
+2. space square root of 3 x minus 3 end root greater than 2
+3. space square root of 10 minus 2 x end root greater or equal than 4
+4. square root of 2 x plus 7 end root greater or equal than square root of x minus 3 end root
+5. space square root of 6 minus x end root greater than square root of 3 x plus 2 end root

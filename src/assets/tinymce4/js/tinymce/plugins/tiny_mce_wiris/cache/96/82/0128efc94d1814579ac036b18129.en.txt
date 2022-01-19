@@ -1,0 +1,1 @@
+open parentheses x subscript 1 comma space x subscript 2 close parentheses equals open parentheses y subscript 1 comma space y subscript 2 close parentheses

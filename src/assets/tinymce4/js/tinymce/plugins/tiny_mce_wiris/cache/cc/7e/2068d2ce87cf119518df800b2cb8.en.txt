@@ -1,0 +1,1 @@
+fraction numerator a b to the power of 4 colon 4 end exponent over denominator a b to the power of 1 colon 1 end exponent end fraction

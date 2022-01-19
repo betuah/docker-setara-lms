@@ -1,0 +1,1 @@
+open vertical bar 3 x space plus space 7 close vertical bar space greater than space open vertical bar x space minus space 3 close vertical bar

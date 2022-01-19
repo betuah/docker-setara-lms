@@ -1,0 +1,1 @@
+rightwards double arrow a over b x c over d equals fraction numerator a c over denominator b d end fraction space space space space space space space space space space space space space space space space space space space space space space space space space space space rightwards double arrow a over b colon c over d equals fraction numerator a d over denominator b c end fraction

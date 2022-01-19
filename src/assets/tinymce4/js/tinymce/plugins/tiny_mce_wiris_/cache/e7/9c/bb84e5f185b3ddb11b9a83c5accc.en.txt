@@ -1,0 +1,1 @@
+fraction numerator partial differential x over denominator partial differential y end fraction

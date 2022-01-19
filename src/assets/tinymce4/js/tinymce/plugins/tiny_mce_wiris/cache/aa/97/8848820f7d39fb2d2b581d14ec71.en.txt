@@ -1,0 +1,1 @@
+f squared space left parenthesis x right parenthesis comma space fraction numerator 1 over denominator f space left parenthesis x right parenthesis end fraction comma space open vertical bar f left parenthesis x right parenthesis close vertical bar

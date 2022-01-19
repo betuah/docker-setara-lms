@@ -1,0 +1,1 @@
+fraction numerator open parentheses a plus b close parentheses over denominator a minus b end fraction

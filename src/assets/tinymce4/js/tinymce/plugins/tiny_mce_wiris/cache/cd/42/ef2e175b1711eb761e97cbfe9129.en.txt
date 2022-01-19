@@ -1,0 +1,1 @@
+open square brackets table row cell a e plus a g end cell cell a f plus b h end cell row cell c e plus d g end cell cell c f plus d h end cell end table close square brackets

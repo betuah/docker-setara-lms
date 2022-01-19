@@ -1,0 +1,1 @@
+negative 10 less or equal than cross times less or equal than 5

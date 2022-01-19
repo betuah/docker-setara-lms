@@ -1,0 +1,1 @@
+n-th root of a cross times n-th root of b equals n-th root of a. b end root

@@ -1,0 +1,1 @@
+fraction numerator d y over denominator d x end fraction space equals space 2 x space minus space 1

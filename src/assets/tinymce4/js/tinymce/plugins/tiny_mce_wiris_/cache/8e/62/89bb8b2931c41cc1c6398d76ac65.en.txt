@@ -1,0 +1,1 @@
+square root of x squared minus 2 x plus 1 space end root greater or equal than open vertical bar x space plus space 1 close vertical bar space

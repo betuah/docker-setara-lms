@@ -1,0 +1,1 @@
+open parentheses 3 x squared minus space 6 x space plus space 1 close parentheses d x

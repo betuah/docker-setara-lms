@@ -1,0 +1,1 @@
+angle M space equals space 180 degree space minus space left parenthesis angle K plus angle L right parenthesis space equals space 180 degree space minus space left parenthesis 60 space plus space 75 right parenthesis equals space 45 degree

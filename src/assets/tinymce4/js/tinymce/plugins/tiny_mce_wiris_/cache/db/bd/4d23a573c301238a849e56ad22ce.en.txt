@@ -1,0 +1,1 @@
+open vertical bar 3 x close vertical bar greater than 15

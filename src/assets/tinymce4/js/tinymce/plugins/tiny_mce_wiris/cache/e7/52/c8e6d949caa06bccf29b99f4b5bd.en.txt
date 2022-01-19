@@ -1,0 +1,1 @@
+square root of open parentheses 16 close parentheses squared plus open parentheses 60 close parentheses squared end root

@@ -1,0 +1,2 @@
+open curly brackets table attributes columnalign left end attributes row cell 4 x minus 3 y plus 2 z equals 11 end cell row cell 3 x plus 2 y equals 7 end cell end table close
+y equals negative 1

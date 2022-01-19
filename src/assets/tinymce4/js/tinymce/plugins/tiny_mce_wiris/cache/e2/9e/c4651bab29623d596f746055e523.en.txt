@@ -1,0 +1,1 @@
+fraction numerator a over denominator b plus-or-minus square root of c end fraction space d a n space fraction numerator begin display style a end style over denominator begin display style square root of b plus-or-minus square root of c end style end fraction

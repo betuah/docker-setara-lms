@@ -1,0 +1,3 @@
+space equals open square brackets left parenthesis negative 2 right parenthesis space x space left parenthesis negative 2 right parenthesis x left parenthesis negative 2 right parenthesis x left parenthesis negative 2 right parenthesis close square brackets space x space open square brackets left parenthesis negative 2 right parenthesis space x space left parenthesis negative 2 right parenthesis space x space left parenthesis negative 2 right parenthesis close square brackets
+equals space left parenthesis negative 2 right parenthesis 7
+equals space left parenthesis negative 2 right parenthesis 4 plus 3

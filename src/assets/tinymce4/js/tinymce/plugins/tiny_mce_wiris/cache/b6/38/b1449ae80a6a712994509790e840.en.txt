@@ -1,0 +1,1 @@
+table row cell square root of 3.1 end root end cell row cell equals straight pi times square root of 7 equals 3 square root of 1 end cell end table

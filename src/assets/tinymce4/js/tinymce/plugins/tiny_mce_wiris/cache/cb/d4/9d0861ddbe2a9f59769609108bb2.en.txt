@@ -1,0 +1,2 @@
+a square root of bold c bold space bold plus bold space bold italic b square root of bold c bold space bold equals bold space bold left parenthesis bold italic a bold plus bold italic b bold right parenthesis square root of bold c
+bold italic a square root of bold c bold space bold minus bold space bold italic b square root of bold c bold space bold equals bold space bold left parenthesis bold italic a bold minus bold italic b bold right parenthesis square root of bold c

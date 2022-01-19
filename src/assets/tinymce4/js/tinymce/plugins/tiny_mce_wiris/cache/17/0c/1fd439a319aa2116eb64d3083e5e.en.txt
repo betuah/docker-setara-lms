@@ -1,0 +1,1 @@
+open square brackets table row cell 1 half end cell 0 row cell negative 2 end cell 1 end table close square brackets

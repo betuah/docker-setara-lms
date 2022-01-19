@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell 2 a plus 3 b equals negative 4 end cell row cell 3 a minus 2 b equals 7 end cell end table close

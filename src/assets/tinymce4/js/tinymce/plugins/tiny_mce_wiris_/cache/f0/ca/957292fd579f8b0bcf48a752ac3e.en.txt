@@ -1,0 +1,1 @@
+y greater or equal than negative x plus 6 comma space y less than negative x squared plus 4 x plus 12

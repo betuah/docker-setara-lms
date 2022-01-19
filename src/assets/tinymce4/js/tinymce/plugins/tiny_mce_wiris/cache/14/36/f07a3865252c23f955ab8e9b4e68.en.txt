@@ -1,0 +1,1 @@
+open curly brackets x vertical line x space greater than 0 close curly brackets

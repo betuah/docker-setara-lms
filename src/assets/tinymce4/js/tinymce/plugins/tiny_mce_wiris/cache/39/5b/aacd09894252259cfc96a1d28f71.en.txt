@@ -1,0 +1,1 @@
+fraction numerator 32 minus 128 over denominator 4 end fraction

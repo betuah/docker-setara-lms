@@ -1,0 +1,4 @@
+open parentheses 5 close parentheses equals 5 squared.5 squared times 5 squared.5 squared equals open parentheses 5.5 close parentheses space. space open parentheses 5.5 close parentheses space. space open parentheses 5.5 close parentheses space. open parentheses 5.5 close parentheses
+equals 5.5.5.5.5.5.5.5
+equals 5 to the power of 8
+equals 5 to the power of 2 cross times 4 end exponent

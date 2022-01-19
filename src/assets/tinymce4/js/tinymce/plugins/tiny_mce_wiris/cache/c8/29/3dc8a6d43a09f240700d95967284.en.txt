@@ -1,0 +1,2 @@
+a over b plus c over d equals fraction numerator a d plus b c over denominator b d end fraction
+2 over 3 plus 2 over 5 equals fraction numerator 2.5 plus 3.2 over denominator 3.5 end fraction equals fraction numerator 10 plus 6 over denominator 15 end fraction equals 16 over 15

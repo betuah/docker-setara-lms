@@ -1,0 +1,1 @@
+open vertical bar x close vertical bar equals square root of x squared end root

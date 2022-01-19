@@ -1,0 +1,1 @@
+f left parenthesis x right parenthesis equals x squared open parentheses x cubed minus 2 x plus 5 close parentheses

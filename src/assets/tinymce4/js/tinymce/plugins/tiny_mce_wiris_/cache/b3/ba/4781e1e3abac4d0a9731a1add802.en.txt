@@ -1,0 +1,5 @@
+blank to the power of 4 log subscript 40 space end subscript minus space to the power of 4 log subscript 5
+equals space to the power of 4 log subscript 40 over 5 space end subscript
+equals space to the power of 4 log subscript 8 space end subscript
+equals space 8 over 4 space
+equals space 2

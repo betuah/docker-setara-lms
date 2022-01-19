@@ -1,0 +1,1 @@
+open curly brackets x vertical line minus 6 less or equal than x less or equal than 2 close curly brackets

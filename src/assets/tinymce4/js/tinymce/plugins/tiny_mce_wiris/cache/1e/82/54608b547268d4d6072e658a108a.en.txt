@@ -1,0 +1,12 @@
+1. space log presuperscript p space b space equals x comma space m a k a space p to the power of x equals b
+2. space space log presuperscript p space a b equals space log presuperscript p space a plus space log presuperscript p space b
+3. space space log presuperscript p space a over b equals space log presuperscript p space a minus space log presuperscript p space b
+4. space space log presuperscript p space a to the power of n equals n. space space log presuperscript p space a
+5. space space log presuperscript p space a. space log presuperscript a space b. space log presuperscript b space c equals space log presuperscript p space c
+6. space space log presuperscript a space b equals fraction numerator space log presuperscript p space b over denominator space log presuperscript p space a end fraction
+7. space space log presuperscript p space x equals fraction numerator 1 over denominator space log presuperscript x space p end fraction
+8. space a to the power of space log presuperscript a space x end exponent equals x
+9. space space log presuperscript a to the power of m end presuperscript space b to the power of n equals n over m space log presuperscript a space b
+10. space space log presuperscript p space 1 equals 0
+space 11. space space log presuperscript p space p equals 1
+12. space space log presuperscript p space p to the power of n equals n

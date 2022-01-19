@@ -1,0 +1,1 @@
+open parentheses a squared plus space to the power of b squared end exponent close parentheses left parenthesis b a plus b right parenthesis

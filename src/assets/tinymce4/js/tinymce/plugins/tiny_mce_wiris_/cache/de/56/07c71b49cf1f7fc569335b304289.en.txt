@@ -1,0 +1,1 @@
+f left parenthesis x right parenthesis equals fraction numerator square root of 9 minus x end root over denominator 2 x minus 12 end fraction

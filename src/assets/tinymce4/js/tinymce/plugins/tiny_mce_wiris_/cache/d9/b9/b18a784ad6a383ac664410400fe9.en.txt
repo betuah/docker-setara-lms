@@ -1,0 +1,3 @@
+a. space a to the power of m space x space a to the power of n equals a to the power of m plus n end exponent
+b. space square root of left parenthesis a cross times b right parenthesis end root equals square root of a cross times square root of b
+c. space to the power of g log open parentheses a. b close parentheses equals to the power of g log space a plus to the power of g log space b

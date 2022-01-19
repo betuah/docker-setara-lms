@@ -1,0 +1,9 @@
+blank to the power of 4 log subscript 40 space end subscript minus space to the power of 4 log subscript 5
+equals space to the power of 4 log subscript 40 space. space 5 space end subscript
+equals space to the power of 4 log subscript 200 space end subscript
+equals to the power of 2 squared end exponent log subscript 200 space end subscript
+equals space 1 half space. space squared log subscript 200 space end subscript
+equals space 1 half space. space space squared log subscript 2 space. space 100 space end subscript
+equals space 1 half space. space 1 space. space 100
+equals space 100 over 2
+equals space 50

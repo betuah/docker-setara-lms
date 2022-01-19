@@ -1,0 +1,1 @@
+fraction numerator 10 plus 9 over denominator 15 end fraction equals 19 over 15

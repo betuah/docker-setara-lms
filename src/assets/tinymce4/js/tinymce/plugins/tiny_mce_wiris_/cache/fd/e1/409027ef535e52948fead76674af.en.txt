@@ -1,0 +1,3 @@
+fraction numerator 4 over denominator X minus 3 end fraction greater or equal than fraction numerator 3 over denominator 2 X minus 1 end fraction left right arrow space fraction numerator 4 over denominator X minus 3 end fraction minus fraction numerator 3 over denominator 2 X minus 1 end fraction greater or equal than 0
+left right arrow fraction numerator 8 X minus 4 minus 3 X plus 9 over denominator left parenthesis X minus 3 right parenthesis left parenthesis 2 X minus 1 right parenthesis end fraction space greater or equal than 0
+left right arrow fraction numerator 5 X plus 5 over denominator left parenthesis X minus 3 right parenthesis left parenthesis 2 X minus 1 right parenthesis end fraction space greater or equal than

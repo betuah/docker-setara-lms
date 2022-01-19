@@ -1,0 +1,1 @@
+open vertical bar x space plus space 5 close vertical bar space equals space 5

@@ -1,0 +1,1 @@
+r space equals space open parentheses 4 t close parentheses i space plus space open parentheses 2 t space minus space 3 t squared close parentheses i

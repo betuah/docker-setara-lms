@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell y equals x squared plus 1 end cell row cell y plus x squared equals 1 end cell end table close

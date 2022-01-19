@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell 4 x space plus space 3 y space equals space 13 end cell row cell space space x space plus space space space y space space equals space space space 4 end cell end table close

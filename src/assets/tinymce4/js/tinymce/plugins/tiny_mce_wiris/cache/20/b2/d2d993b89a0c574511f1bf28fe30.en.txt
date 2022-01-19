@@ -1,0 +1,1 @@
+a over b minus c over d equals fraction numerator a d minus b c over denominator b d end fraction

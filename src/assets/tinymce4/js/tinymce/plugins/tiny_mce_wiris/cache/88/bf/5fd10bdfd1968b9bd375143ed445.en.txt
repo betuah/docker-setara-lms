@@ -1,0 +1,1 @@
+a left parenthesis to the power of p right parenthesis to the power of q equals a space to the power of p. q end exponent

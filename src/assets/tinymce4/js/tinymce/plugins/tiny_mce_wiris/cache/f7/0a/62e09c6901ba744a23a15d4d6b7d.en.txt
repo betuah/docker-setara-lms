@@ -1,0 +1,1 @@
+open parentheses 5 cubed close parentheses squared

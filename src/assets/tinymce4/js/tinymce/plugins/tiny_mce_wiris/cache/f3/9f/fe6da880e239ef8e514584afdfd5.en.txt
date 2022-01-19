@@ -1,0 +1,1 @@
+fraction numerator open parentheses begin display style 2 over 3 x end style close parentheses to the power of negative 2 end exponent cross times open parentheses begin display style 3 over 4 end style close parentheses open parentheses negative y close parentheses cubed over denominator x y squared end fraction

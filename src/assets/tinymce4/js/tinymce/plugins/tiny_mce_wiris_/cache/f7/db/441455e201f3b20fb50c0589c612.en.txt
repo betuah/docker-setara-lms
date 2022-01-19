@@ -1,0 +1,1 @@
+open parentheses table row 1 row cell top enclose 3 end cell end table close parentheses cubed space a d a l a h

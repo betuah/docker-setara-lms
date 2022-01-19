@@ -1,0 +1,1 @@
+open vertical bar a space. space b. space c close vertical bar equals open vertical bar a close vertical bar. open vertical bar b close vertical bar. open vertical bar c close vertical bar

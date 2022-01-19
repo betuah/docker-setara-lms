@@ -1,0 +1,1 @@
+open parentheses 3 x close parentheses squared cross times open parentheses 3 x close parentheses squared

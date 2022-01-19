@@ -1,0 +1,1 @@
+open parentheses 20 minus 1 close parentheses

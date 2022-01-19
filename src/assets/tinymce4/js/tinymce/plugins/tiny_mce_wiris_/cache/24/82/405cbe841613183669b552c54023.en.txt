@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell y minus x equals 2 end cell row cell 2 x squared plus y squared minus 5 x y equals 8 end cell end table close

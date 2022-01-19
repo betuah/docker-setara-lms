@@ -1,0 +1,1 @@
+stack l i m with x rightwards arrow infinity below fraction numerator left parenthesis 2 x minus space 1 right parenthesis squared over denominator 4 x squared plus space 7 x space plus space 1 end fraction

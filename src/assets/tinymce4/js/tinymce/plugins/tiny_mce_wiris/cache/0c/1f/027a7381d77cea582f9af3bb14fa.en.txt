@@ -1,0 +1,1 @@
+log presuperscript 2 space 8 space minus space log presuperscript 1 half end presuperscript space 0 comma 25 space plus space log presuperscript 3 space 1 over 27 space plus space log presuperscript 2 space 1

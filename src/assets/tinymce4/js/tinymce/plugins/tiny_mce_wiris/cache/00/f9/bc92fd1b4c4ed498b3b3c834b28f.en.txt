@@ -1,0 +1,1 @@
+table row cell 2 x plus y plus z equals negative 9 end cell row cell 3 y minus 2 z equals negative 4 end cell row cell 8 z equals negative 8 end cell end table

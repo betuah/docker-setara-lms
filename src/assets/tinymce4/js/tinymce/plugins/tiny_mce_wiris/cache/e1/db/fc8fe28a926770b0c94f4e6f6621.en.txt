@@ -1,0 +1,2 @@
+negative 3 over 2 less than x less than 7 over 3
+minus fraction numerator begin display style 3 end style over denominator begin display style 7 end style end fraction less than x less than fraction numerator begin display style 2 end style over denominator begin display style 3 end style end fraction

@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell 2 x minus y equals 14 end cell row cell x plus 3 y equals 0 end cell end table close

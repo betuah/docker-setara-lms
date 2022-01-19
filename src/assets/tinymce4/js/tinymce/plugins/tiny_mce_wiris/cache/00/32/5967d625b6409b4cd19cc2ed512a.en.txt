@@ -1,0 +1,5 @@
+a to the power of m x a to the power of n equals a to the power of m plus n end exponent
+a to the power of m colon a to the power of n equals a to the power of m minus n end exponent
+open parentheses a to the power of m close parentheses to the power of n equals a to the power of m x n end exponent
+open parentheses a x b close parentheses to the power of n equals a to the power of n x b to the power of n
+open parentheses a over b close parentheses to the power of n equals a to the power of n over b to the power of n

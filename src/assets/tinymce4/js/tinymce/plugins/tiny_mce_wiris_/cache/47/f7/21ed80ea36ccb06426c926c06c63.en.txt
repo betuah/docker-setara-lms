@@ -1,0 +1,1 @@
+open parentheses n-th root of a close parentheses to the power of n equals a

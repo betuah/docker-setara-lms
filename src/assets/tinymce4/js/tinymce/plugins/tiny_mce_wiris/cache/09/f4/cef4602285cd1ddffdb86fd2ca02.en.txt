@@ -1,0 +1,1 @@
+open parentheses a 1 over n equals n-th root of a close parentheses

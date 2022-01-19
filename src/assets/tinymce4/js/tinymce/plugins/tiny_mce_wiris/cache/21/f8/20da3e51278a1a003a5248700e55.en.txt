@@ -1,0 +1,16 @@
+C o n t o h space 2 space colon space a to the power of m space colon space end exponent a to the power of n space equals space a to the power of m minus n space end exponent
+8 to the power of 4 space colon space 8 squared space equals space 8 to the power of 4 over 8 squared space equals fraction numerator space 8 space x space 8 space x space 8 space x space 8 over denominator 8 space x space 8 end fraction space equals space 8 space x space 8 space equals 8 squared space equals space 8 to the power of 4 minus 2 end exponent
+
+C o n t o h space 3 space colon space left parenthesis a to the power of p right parenthesis to the power of n space equals space a to the power of p n end exponent space
+left parenthesis 5 squared right parenthesis to the power of 4 space equals space 5 squared space. space 5 squared space. space 5 squared space. space 5 squared space equals space left parenthesis 5.5 right parenthesis. left parenthesis 5.5 right parenthesis. left parenthesis 5.5 right parenthesis. left parenthesis 5.5 right parenthesis
+space space space space space space space space space equals space 5 space. space 5 space. space 5 space. space 5 space. space 5 space. space 5 space. space 5 space. space 5
+space space space space space space space space space equals 5 to the power of 8
+space space space space space space space space equals space 5 to the power of 2 x 4 end exponent
+
+c o n t o h space 4 space left parenthesis a b right parenthesis to the power of n space equals space a to the power of n b to the power of n
+left parenthesis 3 b right parenthesis squared space equals space left parenthesis 3 b right parenthesis space. space left parenthesis 3 b right parenthesis space equals space left parenthesis 3. space 3 right parenthesis space. space left parenthesis b. b right parenthesis
+space space space space space space space space space space equals space 3 squared b squared
+space space space space space space space space space space space equals space 9 b squared space
+
+c o n t o h space 5 space open parentheses a over b close parentheses to the power of n space equals space a to the power of n over b to the power of n
+open parentheses 2 over 3 close parentheses to the power of 5 space equals space 2 over 3 space x space 2 over 3 space x 2 over 3 space x 2 over 3 x 2 over 3 space equals space fraction numerator 2 x 2 x 2 x 2 x 2 over denominator 3 x 3 x 3 x 3 x 3 end fraction space equals space 2 to the power of 5 over 3 to the power of 5

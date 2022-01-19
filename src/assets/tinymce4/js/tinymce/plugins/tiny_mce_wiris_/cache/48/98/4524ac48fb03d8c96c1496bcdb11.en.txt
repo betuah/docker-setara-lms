@@ -1,0 +1,1 @@
+fraction numerator a to the power of 4 minus to the power of b to the power of 4 end exponent over denominator a minus b end fraction

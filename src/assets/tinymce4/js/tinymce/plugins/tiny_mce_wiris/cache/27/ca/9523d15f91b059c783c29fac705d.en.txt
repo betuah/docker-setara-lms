@@ -1,0 +1,1 @@
+open parentheses 2 over 5 close parentheses cubed

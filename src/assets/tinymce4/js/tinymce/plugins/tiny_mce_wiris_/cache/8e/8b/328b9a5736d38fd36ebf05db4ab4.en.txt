@@ -1,0 +1,1 @@
+open vertical bar 3 x plus 5 close vertical bar open vertical bar greater or equal than 19 close vertical bar

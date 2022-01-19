@@ -1,0 +1,1 @@
+open parentheses 3 x close parentheses to the power of 2 space end exponent cross times open parentheses 3 x close parentheses squared

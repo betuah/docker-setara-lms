@@ -1,0 +1,1 @@
+b with rightwards arrow on top equals open parentheses table row cell negative 3 end cell row 4 end table close parentheses minus open parentheses table row 0 row 0 end table close parentheses equals open parentheses table row cell negative 3 end cell row 4 end table close parentheses

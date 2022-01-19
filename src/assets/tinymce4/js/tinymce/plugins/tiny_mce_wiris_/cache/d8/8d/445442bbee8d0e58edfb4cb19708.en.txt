@@ -1,0 +1,1 @@
+open parentheses 1 half close parentheses cubed

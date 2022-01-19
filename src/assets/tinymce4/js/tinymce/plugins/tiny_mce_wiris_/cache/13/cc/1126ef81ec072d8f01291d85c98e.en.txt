@@ -1,0 +1,1 @@
+log presuperscript 2 space 48 space plus space log presuperscript 5 space 50 space minus space log presuperscript 2 space 3 space minus log presuperscript 5 space 2

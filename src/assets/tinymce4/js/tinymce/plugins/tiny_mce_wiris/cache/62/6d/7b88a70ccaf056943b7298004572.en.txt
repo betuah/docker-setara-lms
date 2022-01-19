@@ -1,0 +1,3 @@
+x over 2 plus y over 3 plus z over 2 equals negative 4
+x over 3 minus y over 4 minus z over 2 equals 8
+x over 2 plus y over 2 plus z over 3 equals negative 6

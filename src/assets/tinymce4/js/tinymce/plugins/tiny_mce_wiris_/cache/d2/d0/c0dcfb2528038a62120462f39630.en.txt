@@ -1,0 +1,1 @@
+open parentheses fraction numerator 2 space plus space a over denominator a left parenthesis b space plus space 1 right parenthesis end fraction close parentheses

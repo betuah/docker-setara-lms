@@ -1,0 +1,1 @@
+open parentheses a plus b close parentheses open parentheses a squared plus to the power of b squared end exponent close parentheses

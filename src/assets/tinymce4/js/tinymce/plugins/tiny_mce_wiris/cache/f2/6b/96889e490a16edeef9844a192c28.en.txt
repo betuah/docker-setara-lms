@@ -1,0 +1,1 @@
+open table attributes columnalign right end attributes row cell x minus y equals 5 end cell row cell 3 x plus y equals 11 end cell end table close curly brackets

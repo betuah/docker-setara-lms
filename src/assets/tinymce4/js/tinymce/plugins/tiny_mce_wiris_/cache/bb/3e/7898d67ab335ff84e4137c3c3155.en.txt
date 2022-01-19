@@ -1,0 +1,1 @@
+open vertical bar a over b close vertical bar equals fraction numerator open vertical bar a close vertical bar over denominator open vertical bar b close vertical bar end fraction

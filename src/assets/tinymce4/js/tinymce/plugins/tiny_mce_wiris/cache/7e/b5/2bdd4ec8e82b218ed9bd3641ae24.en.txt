@@ -1,0 +1,1 @@
+open parentheses a over b close parentheses to the power of m equals a to the power of m over b to the power of m

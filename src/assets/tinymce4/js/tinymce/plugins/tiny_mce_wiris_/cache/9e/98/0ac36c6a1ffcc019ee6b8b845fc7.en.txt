@@ -1,0 +1,1 @@
+f left parenthesis x right parenthesis equals fraction numerator 5 x plus 2 over denominator 3 x minus 2 end fraction comma space x not equal to 2 over 3

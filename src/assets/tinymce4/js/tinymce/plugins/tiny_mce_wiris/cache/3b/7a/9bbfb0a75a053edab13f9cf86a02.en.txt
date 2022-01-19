@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell 5 x space minus space 2 y space equals space 21 end cell row cell negative x space plus space 2 y space equals space minus 9 end cell end table close

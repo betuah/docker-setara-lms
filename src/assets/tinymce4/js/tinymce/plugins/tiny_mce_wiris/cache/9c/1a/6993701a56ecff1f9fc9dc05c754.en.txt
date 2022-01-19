@@ -1,0 +1,5 @@
+fraction numerator 12 over denominator 5 square root of 5 end fraction
+equals fraction numerator 12 over denominator 5 square root of 5 end fraction space. space fraction numerator square root of 5 over denominator square root of 5 end fraction
+equals space fraction numerator 12 space. square root of 5 over denominator 5 square root of 5 space. space square root of 5 end fraction
+equals space fraction numerator 12 square root of 5 over denominator 5.5 end fraction
+equals space space fraction numerator 12 square root of 5 over denominator 25 end fraction

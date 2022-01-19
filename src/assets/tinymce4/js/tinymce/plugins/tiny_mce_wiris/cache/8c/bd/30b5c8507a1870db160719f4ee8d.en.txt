@@ -1,0 +1,1 @@
+open parentheses x plus 3 close parentheses open parentheses x minus 1 close parentheses greater or equal than open parentheses x minus 1 close parentheses

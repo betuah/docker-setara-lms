@@ -1,0 +1,1 @@
+log presuperscript 3 9 space plus space log presuperscript 3 18 space minus space log presuperscript 3 2

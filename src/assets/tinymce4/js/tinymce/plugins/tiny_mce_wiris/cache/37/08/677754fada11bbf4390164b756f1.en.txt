@@ -1,0 +1,1 @@
+open parentheses a space x space b close parentheses to the power of m

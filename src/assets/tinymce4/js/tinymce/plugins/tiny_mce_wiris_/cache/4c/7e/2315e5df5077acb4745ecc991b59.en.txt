@@ -1,0 +1,2 @@
+integral subscript 3 superscript 2 left parenthesis 3 x minus 3 right parenthesis d x
+limit as x rightwards arrow 6 of 2 x plus 8

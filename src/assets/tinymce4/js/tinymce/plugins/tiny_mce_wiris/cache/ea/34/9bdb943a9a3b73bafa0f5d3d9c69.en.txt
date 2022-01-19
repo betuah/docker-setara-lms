@@ -1,0 +1,1 @@
+open vertical bar 6 open vertical bar negative 4 open vertical bar 12 close vertical bar close vertical bar close vertical bar

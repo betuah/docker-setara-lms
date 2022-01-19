@@ -1,0 +1,1 @@
+left enclose x less than negative 4 comma space x element of fraktur R end enclose

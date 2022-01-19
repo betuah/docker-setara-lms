@@ -1,0 +1,1 @@
+open parentheses x minus 3 close parentheses squared plus open parentheses y minus 2 close parentheses squared less or equal than 25

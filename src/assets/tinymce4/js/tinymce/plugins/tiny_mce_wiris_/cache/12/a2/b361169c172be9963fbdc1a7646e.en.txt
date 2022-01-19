@@ -1,0 +1,2 @@
+open vertical bar 6 x space minus space 5 close vertical bar space less or equal than 4
+open vertical bar 3 x space minus space 1 space close vertical bar greater than space 5

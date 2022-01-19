@@ -1,0 +1,1 @@
+left parenthesis a b right parenthesis to the power of n space equals space a to the power of n b to the power of n

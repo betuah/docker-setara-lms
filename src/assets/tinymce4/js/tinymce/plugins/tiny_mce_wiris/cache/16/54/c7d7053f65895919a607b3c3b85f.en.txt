@@ -1,0 +1,3 @@
+x squared minus 8 x space plus 16 space equals 0 comma space m a k a space a space equals space 1 comma space b equals space minus 8 comma space d a n space c equals 16
+D equals b squared minus 4 a c space equals space left parenthesis negative 8 right parenthesis squared minus 4 space x space 1 space x space 16
+space space space space space space space space space space space space space space space space space space space space space space space space equals 64 minus 64 equals 0

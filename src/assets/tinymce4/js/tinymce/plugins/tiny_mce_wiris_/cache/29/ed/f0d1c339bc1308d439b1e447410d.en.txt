@@ -1,0 +1,1 @@
+square root of fraction numerator x squared minus x over denominator x plus 1 end fraction end root greater or equal than 0

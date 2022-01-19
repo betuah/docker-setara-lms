@@ -1,0 +1,2 @@
+E subscript m space equals space E subscript p space plus space E subscript k space end subscript
+E subscript p a space end subscript space plus space E subscript k a end subscript space equals space E subscript p b end subscript space plus space E subscript k b end subscript

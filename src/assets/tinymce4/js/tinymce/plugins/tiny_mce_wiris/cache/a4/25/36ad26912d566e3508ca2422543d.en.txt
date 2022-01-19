@@ -1,0 +1,1 @@
+open parentheses 2 over 3 close parentheses to the power of 5 space equals space 2 over 3 space x space 2 over 3 space x space 2 over 3 x 2 over 3 x 2 over 3 space equals space fraction numerator 2 x 2 x 2 x 2 x 2 over denominator 3 x 3 x 3 x 3 x 3 end fraction space equals space 2 to the power of 5 over 3 to the power of 5

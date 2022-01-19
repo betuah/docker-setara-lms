@@ -1,0 +1,1 @@
+stack O A with rightwards arrow on top equals a with rightwards arrow on top equals space A space minus space 0 space equals space open square brackets table row x row y end table close square brackets minus open square brackets table row 0 row 0 end table close square brackets equals open square brackets table row x row y end table close square brackets

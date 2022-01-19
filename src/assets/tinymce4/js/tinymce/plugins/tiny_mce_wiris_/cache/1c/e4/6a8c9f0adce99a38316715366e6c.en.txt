@@ -1,0 +1,2 @@
+open parentheses 4 cross times 152 plus n close parentheses
+divided by open parentheses psi plus 1 close parentheses equals 152

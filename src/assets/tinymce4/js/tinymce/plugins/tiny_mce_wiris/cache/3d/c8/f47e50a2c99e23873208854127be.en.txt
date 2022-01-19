@@ -1,0 +1,1 @@
+open parentheses fraction numerator begin display style a end style over denominator begin display style b end style end fraction close parentheses to the power of n equals a to the power of n over b to the power of n

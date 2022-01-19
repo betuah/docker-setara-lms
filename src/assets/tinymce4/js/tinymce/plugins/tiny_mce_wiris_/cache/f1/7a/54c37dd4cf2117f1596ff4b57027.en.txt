@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell x plus y equals 5 end cell row cell 3 x plus 2 y equals 12 end cell end table close

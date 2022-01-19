@@ -1,0 +1,5 @@
+open parentheses 3 squared close parentheses squared space space space x space space open parentheses 3 to the power of 4 close parentheses squared
+equals 3 to the power of 2.2 end exponent space x space space 3 to the power of 4.2 end exponent
+equals 3 to the power of 4 space x space space 3 to the power of 8
+equals 3 to the power of 4.8 end exponent
+equals 3 to the power of 32

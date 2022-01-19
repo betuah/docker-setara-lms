@@ -1,0 +1,1 @@
+open vertical bar F subscript 1 minus F subscript 2 close vertical bar

@@ -1,0 +1,1 @@
+negative 6 less or equal than x less or equal than negative 2

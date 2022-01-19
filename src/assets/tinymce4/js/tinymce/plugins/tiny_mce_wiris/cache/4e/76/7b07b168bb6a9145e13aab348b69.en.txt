@@ -1,0 +1,1 @@
+open parentheses 3 a b close parentheses to the power of negative 1 end exponent

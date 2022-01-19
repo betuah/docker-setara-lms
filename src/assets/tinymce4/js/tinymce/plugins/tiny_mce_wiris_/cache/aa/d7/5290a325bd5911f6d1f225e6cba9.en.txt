@@ -1,0 +1,1 @@
+open parentheses 2 a close parentheses cubed equals 2 cubed. a cubed equals 8 a cubed

@@ -1,0 +1,1 @@
+open square brackets table row x 12 row 3 5 end table close square brackets plus open square brackets table row cell negative 2 end cell 5 row 4 6 end table close square brackets equals open square brackets table row 20 17 row 7 11 end table close square brackets

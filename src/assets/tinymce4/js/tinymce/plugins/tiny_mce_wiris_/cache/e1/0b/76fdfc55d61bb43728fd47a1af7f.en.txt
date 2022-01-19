@@ -1,0 +1,1 @@
+open square brackets table row cell negative 2 end cell 3 row 1 cell negative 4 end cell end table close square brackets cross times open square brackets table row 1 5 row 2 cell negative 3 end cell end table close square brackets

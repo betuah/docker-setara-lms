@@ -1,0 +1,1 @@
+log subscript 2 open parentheses 24 close parentheses minus log subscript 2 open parentheses 6 close parentheses

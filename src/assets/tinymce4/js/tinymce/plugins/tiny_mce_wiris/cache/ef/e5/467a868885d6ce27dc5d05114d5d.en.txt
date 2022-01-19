@@ -1,0 +1,1 @@
+fraction numerator d y over denominator d x end fraction equals space 3 x squared minus space 6 x space plus space 1

@@ -1,0 +1,1 @@
+straight S subscript straight n equals end subscript fraction numerator straight a open parentheses straight r to the power of straight n minus 1 close parentheses over denominator straight r minus 1 end fraction

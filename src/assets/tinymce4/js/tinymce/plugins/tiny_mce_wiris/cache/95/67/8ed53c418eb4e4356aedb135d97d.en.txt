@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell negative x squared minus x minus y less or equal than negative 2 end cell row cell negative x plus y less or equal than negative 2 end cell end table close

@@ -1,0 +1,3 @@
+1. a to the power of m x a to the power of n equals a to the power of m plus n end exponent
+2. square root of left parenthesis a x b space equals square root of a x square root of b end root end root
+3. to the power of 9 log left parenthesis a. b right parenthesis equals to the power of 9 log subscript a plus to the power of 9 log b space

@@ -1,0 +1,1 @@
+open vertical bar x space minus space 1 close vertical bar space plus space open vertical bar 3 x space plus space 2 close vertical bar space equals space 4

@@ -1,0 +1,1 @@
+left enclose x greater than 4 comma space x space element of fraktur R end enclose

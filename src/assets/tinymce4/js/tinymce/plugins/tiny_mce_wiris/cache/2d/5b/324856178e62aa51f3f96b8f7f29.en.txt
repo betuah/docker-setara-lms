@@ -1,0 +1,1 @@
+logb presuperscript straight a space equals space fraction numerator logb presuperscript straight p over denominator loga presuperscript straight p end fraction

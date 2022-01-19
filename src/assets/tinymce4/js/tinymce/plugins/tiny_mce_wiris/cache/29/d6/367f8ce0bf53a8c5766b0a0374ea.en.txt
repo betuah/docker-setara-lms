@@ -1,0 +1,1 @@
+open parentheses negative 3 a close parentheses squared

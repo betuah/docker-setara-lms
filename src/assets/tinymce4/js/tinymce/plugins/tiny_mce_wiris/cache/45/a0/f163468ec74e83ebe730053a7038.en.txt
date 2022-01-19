@@ -1,0 +1,1 @@
+open parentheses a b close parentheses cubed over open parentheses a b squared close parentheses to the power of 4

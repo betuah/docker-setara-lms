@@ -1,0 +1,1 @@
+integral subscript b superscript a sin open parentheses 35 close parentheses equals x

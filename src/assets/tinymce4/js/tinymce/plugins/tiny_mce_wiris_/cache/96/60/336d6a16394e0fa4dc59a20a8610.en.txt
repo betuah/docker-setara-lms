@@ -1,0 +1,1 @@
+√ left parenthesis 3 x minus 5 right parenthesis less or equal than space √ left parenthesis x plus 1 right parenthesis space left right arrow 3 x minus 5 space less or equal than x plus 1 left right arrow 2 x space less or equal than 6 space left right arrow x space less or equal than 3 space

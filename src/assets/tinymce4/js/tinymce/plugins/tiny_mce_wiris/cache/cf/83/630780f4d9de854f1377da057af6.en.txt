@@ -1,0 +1,1 @@
+fraction numerator 1 over 4096 over denominator 1 over 16 end fraction

@@ -1,0 +1,1 @@
+open vertical bar a with rightwards arrow on top close vertical bar equals square root of 4 squared plus 3 squared end root equals 5

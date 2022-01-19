@@ -1,0 +1,1 @@
+square root of a open parentheses square root of b minus square root of c close parentheses equals square root of a b end root minus square root of a c end root

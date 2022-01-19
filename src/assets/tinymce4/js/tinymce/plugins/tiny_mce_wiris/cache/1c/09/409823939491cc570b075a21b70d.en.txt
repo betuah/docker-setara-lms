@@ -1,0 +1,1 @@
+log presuperscript straight p space left parenthesis axb right parenthesis space equals space loga presuperscript straight p space plus space logb presuperscript straight p

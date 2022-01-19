@@ -1,0 +1,4 @@
+a. space a x squared plus b x plus c less or equal than 0
+b. space a x squared plus b x plus c greater or equal than 0
+c. space a x squared plus b x plus c less than 0
+d. space a x squared plus b x plus c greater than 0

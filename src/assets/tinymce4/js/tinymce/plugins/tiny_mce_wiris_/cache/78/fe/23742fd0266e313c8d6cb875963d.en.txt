@@ -1,0 +1,5 @@
+5 x squared plus 6 x minus 8 plus k x equals 7 x squared minus k
+J a w a b space colon space 5 x squared plus 6 x minus 8 plus k x equals 7 x squared minus k
+space space space space space space space space space space left right double arrow 5 x squared space minus space 7 x squared space plus 6 x plus k x minus 8 plus k equals 0
+space space space space space space space space space space left right double arrow negative 2 x squared plus left parenthesis 6 plus k right parenthesis x minus left parenthesis 8 minus k right parenthesis equals 0
+M a k a space a space equals space minus 2 comma space b equals 6 plus k comma space d a n space c equals negative left parenthesis 8 minus k right parenthesis

@@ -1,0 +1,1 @@
+square root of 3 x space minus space 5 end root space less or equal than square root of x space plus 1 end root

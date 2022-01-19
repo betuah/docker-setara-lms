@@ -1,0 +1,1 @@
+open square brackets table row 7 row 1 row cell negative 7 end cell end table close square brackets

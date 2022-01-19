@@ -1,0 +1,1 @@
+open parentheses a squared minus b squared close parentheses

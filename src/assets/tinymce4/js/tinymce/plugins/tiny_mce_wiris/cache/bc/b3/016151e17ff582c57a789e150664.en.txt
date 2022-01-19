@@ -1,0 +1,1 @@
+2 x space plus space 3 y space greater or equal than 9 semicolon space x plus y greater or equal than 4 semicolon x greater or equal than 0 space d a n space y space greater or equal than 0

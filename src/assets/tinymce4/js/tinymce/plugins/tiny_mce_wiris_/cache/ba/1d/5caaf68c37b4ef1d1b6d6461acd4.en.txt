@@ -1,0 +1,1 @@
+left parenthesis f ring operator g right parenthesis left parenthesis x right parenthesis equals f left parenthesis g left parenthesis x right parenthesis right parenthesis

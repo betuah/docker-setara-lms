@@ -1,0 +1,1 @@
+stack A B with rightwards arrow on top space equals space stack a space with rightwards arrow on top equals space open vertical bar table row cell 3 minus end cell 0 row cell 5 minus end cell 1 end table close vertical bar equals open parentheses table row 3 row 4 end table close parentheses

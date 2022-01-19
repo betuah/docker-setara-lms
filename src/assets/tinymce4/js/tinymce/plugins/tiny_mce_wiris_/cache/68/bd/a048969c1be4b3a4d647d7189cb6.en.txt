@@ -1,0 +1,5 @@
+1 right parenthesis space square root of 2 space equals space 1 comma 4142135624
+2 right parenthesis space square root of 3 space equals space 1 comma 7320508076
+3 right parenthesis space square root of 5 space equals space 2 comma 2360679775
+4 right parenthesis space square root of 7 space equals space 2 comma 6457513111
+5 right parenthesis space square root of 11 space equals space 3 comma 3166247904

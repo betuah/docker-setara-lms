@@ -1,0 +1,1 @@
+straight f left parenthesis straight x right parenthesis equals fraction numerator straight x plus 2 over denominator 2 straight x plus 3 end fraction

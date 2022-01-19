@@ -1,0 +1,1 @@
+fraction numerator 3 space plus space log space left parenthesis log space x right parenthesis over denominator 3 space log left parenthesis log to the power of 1000 right parenthesis end fraction

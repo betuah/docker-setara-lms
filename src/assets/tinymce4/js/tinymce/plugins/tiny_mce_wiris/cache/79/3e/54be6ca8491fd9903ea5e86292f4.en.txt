@@ -1,0 +1,1 @@
+fraction numerator x to the power of 10 y to the power of 6 over denominator z to the power of 8 end fraction

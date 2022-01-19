@@ -1,0 +1,1 @@
+stack A B with rightwards arrow on top space equals space stack C D with rightwards arrow on top

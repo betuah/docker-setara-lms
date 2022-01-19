@@ -1,0 +1,4 @@
+1. space a over c plus b over c equals fraction numerator a plus b over denominator c end fraction
+2. space a over c minus b over c equals fraction numerator a minus b over denominator c end fraction
+3. space a over b plus c over d equals fraction numerator a d plus b c over denominator b d end fraction
+4. space a over b minus c over d equals fraction numerator a d minus b c over denominator b d end fraction

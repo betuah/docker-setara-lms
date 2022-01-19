@@ -1,0 +1,1 @@
+v space equals space open parentheses 4 t close parentheses space i space plus space open parentheses 10 space plus space 0 comma 75 space t squared close parentheses space i

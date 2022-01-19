@@ -1,0 +1,1 @@
+fraction numerator 1 over denominator begin display style 1 half plus 1 end style end fraction x to the power of 1 half plus 1 end exponent

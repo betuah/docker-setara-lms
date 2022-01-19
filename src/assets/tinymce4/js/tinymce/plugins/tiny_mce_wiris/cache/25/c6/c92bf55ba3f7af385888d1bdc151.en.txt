@@ -1,0 +1,1 @@
+open vertical bar x close vertical bar equals open curly brackets table attributes columnalign left end attributes row cell x comma space u n t u k space x greater or equal than 0 end cell row cell negative x comma space u n t u k space x less than 0 end cell end table close

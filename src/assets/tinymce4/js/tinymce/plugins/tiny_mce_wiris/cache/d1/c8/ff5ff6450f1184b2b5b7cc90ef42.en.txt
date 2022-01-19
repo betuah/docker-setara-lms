@@ -1,0 +1,1 @@
+9. space open parentheses 256 close parentheses space X space left parenthesis 4 to the power of negative 2 end exponent right parenthesis space equals space 4 to the power of 4 space X 4 to the power of negative 2 end exponent space equals space 4 to the power of 4 plus left parenthesis negative 2 right parenthesis end exponent space equals 4 squared space equals 16

@@ -1,0 +1,1 @@
+open parentheses 2 over 4 close parentheses cubed space equals space 2 over 4 cross times 2 over 4 cross times 2 over 4 equals 8 over 64 equals 1 over 8

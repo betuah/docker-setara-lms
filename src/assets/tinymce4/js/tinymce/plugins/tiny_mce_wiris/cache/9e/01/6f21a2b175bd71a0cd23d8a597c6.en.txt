@@ -1,0 +1,1 @@
+square root of 2 plus 12 begin inline style sum from i to 2 of end style

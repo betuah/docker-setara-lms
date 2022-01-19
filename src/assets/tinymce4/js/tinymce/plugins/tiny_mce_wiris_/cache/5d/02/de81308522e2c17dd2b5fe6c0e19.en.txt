@@ -1,0 +1,1 @@
+straight U subscript straight n equals straight a plus open parentheses straight n minus 1 close parentheses straight b end subscript

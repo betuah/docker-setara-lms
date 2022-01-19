@@ -1,0 +1,1 @@
+equals 3 to the power of open parentheses 4 plus 7 close parentheses end exponent

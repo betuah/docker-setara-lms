@@ -1,0 +1,1 @@
+fraction numerator x space plus space 5 over denominator x space minus space 1 end fraction space greater than space 0

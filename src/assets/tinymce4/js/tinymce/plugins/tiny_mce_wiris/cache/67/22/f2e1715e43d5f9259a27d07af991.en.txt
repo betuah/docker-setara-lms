@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell 2 straight x plus 2 straight y equals 4 end cell row cell straight x minus straight y equals negative 1 end cell end table close

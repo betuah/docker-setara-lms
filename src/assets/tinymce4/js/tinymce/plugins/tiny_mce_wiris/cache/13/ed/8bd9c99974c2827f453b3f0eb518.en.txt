@@ -1,0 +1,6 @@
+1 right parenthesis space square root of 16 equals space 4
+2 right parenthesis space square root of 36 equals space 6
+3 right parenthesis space square root of 81 equals space 9
+4 right parenthesis space cube root of 8 space equals space 2
+5 right parenthesis space cube root of 27 space equals space 3
+6 right parenthesis space cube root of 64 space equals space 4

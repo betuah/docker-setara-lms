@@ -1,0 +1,1 @@
+fraction numerator 2 a over denominator 4 end fraction plus fraction numerator 10 minus a over denominator 3 end fraction equals 4

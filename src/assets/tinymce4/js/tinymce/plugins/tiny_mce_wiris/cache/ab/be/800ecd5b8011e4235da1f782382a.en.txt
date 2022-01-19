@@ -1,0 +1,1 @@
+stack P Q with rightwards arrow on top space equals P with rightwards arrow on top space equals open square brackets table row cell x subscript 2 minus x subscript 1 end cell row cell x subscript 2 minus y subscript 1 end cell end table close square brackets

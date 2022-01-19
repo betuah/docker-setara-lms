@@ -1,0 +1,1 @@
+fraction numerator 4 minus x squared over denominator x squared plus x end fraction greater or equal than 0

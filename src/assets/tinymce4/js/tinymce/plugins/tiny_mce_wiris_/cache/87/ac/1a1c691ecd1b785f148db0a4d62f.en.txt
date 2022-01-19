@@ -1,0 +1,1 @@
+open parentheses alpha space plus space beta close parentheses

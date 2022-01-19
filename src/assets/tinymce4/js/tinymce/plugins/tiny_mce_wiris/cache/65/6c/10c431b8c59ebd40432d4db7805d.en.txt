@@ -1,0 +1,1 @@
+S subscript n equals fraction numerator a left parenthesis r to the power of n minus 1 right parenthesis over denominator r minus 1 end fraction

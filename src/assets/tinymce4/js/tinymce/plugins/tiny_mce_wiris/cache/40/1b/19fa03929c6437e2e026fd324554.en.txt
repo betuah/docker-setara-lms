@@ -1,0 +1,1 @@
+a square root of c plus-or-minus b square root of c equals left parenthesis a plus-or-minus b right parenthesis square root of c

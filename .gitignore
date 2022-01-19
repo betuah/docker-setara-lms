@@ -88,3 +88,14 @@ sw.*
 
 # Vim swap files
 *.swp
+
+src/assets/directory/*
+!src/assets/directory/.gitkeep
+src/assets/dokumen/*
+!src/assets/dokumen/.gitkeep
+src/assets/thumbs/*
+!src/assets/thumbs/.gitkeep
+src/media/Assets/foto/*
+!src/media/Assets/foto/.gitkeep
+
+src/vendor

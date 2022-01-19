@@ -1,0 +1,1 @@
+limit as x rightwards arrow 1 of fraction numerator 2 x squared minus x minus 1 over denominator x squared plus 3 x minus 4 end fraction

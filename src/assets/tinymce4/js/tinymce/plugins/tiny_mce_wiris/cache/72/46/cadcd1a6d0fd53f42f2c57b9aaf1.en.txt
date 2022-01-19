@@ -1,0 +1,1 @@
+open curly brackets open parentheses 1 comma 6 close parentheses comma open parentheses 2 comma 5 close parentheses comma open parentheses 3 comma 7 close parentheses comma open parentheses 4 comma 0 close parentheses comma open parentheses 5 comma 1 close parentheses close curly brackets

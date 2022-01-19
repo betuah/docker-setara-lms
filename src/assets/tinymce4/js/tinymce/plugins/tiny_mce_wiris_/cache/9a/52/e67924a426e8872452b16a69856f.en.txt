@@ -1,0 +1,1 @@
+left enclose x greater than 1 right curly bracket end enclose

@@ -1,0 +1,1 @@
+sin left parenthesis 2 alpha right parenthesis space equals space sin space left parenthesis alpha plus alpha right parenthesis space equals sin alpha cos alpha plus cos alpha sin alpha space equals space 2 space sin alpha cos alpha

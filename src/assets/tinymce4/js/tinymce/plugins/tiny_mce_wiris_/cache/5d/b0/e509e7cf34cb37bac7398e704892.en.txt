@@ -1,0 +1,2 @@
+sin left parenthesis alpha plus beta right parenthesis equals sin alpha cos beta plus cos alpha sin beta
+sin left parenthesis alpha minus beta right parenthesis equals sin alpha cos beta minus cos alpha sin beta

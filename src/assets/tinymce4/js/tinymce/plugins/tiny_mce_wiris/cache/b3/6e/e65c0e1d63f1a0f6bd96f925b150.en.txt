@@ -1,0 +1,1 @@
+open parentheses square root of a plus square root of b close parentheses open parentheses square root of a minus square root of b close parentheses space equals space a minus b

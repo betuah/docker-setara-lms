@@ -1,0 +1,1 @@
+open vertical bar x space plus space 7 close vertical bar less than 9

@@ -1,0 +1,1 @@
+log presuperscript 3 space 15 plus log presuperscript 3 space 6 minus log presuperscript 3 space 10

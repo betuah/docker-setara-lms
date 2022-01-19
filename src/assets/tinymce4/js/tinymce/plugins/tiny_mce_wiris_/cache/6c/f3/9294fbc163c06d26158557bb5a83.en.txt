@@ -1,0 +1,1 @@
+log presuperscript 3 7 minus 3 log presuperscript 3 3 plus 1 half log presuperscript 3 81 minus log presuperscript 3 63

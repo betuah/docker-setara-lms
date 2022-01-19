@@ -1,0 +1,1 @@
+fraction numerator open parentheses 5 space x space 10 to the power of negative 6 end exponent close parentheses. open parentheses 1.000.0000 close parentheses over denominator open parentheses 100 close parentheses to the power of negative 2 end exponent end fraction

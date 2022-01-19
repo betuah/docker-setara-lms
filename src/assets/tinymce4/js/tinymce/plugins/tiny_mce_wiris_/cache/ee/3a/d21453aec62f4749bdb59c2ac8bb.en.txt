@@ -1,0 +1,1 @@
+open parentheses 24 close parentheses to the power of 4 space cross times space open parentheses 23 close parentheses to the power of negative 5 end exponent

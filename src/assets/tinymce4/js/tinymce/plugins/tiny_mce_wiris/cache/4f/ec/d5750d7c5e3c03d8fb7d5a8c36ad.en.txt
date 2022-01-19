@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell a. j i k a space a greater or equal than 0 end cell row cell negative a space j i k a space a less than 0 end cell end table close

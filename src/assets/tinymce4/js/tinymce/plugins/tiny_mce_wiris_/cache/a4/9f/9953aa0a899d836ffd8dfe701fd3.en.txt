@@ -1,0 +1,1 @@
+open parentheses fraction numerator begin display style a end style over denominator begin display style a end style end fraction close parentheses

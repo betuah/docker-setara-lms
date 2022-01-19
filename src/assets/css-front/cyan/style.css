@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .sorting-container a { color:#5a7878; }
+
+ul.tabs-vertical-frame li.current a, ul.tabs-vertical-frame li, .pr-tb-col:hover, .pr-tb-col.active .tb-content li, .pr-tb-col.active { border-color: #00e5e5; }
+.border-title span, ul.tabs-vertical-frame li.current a, .button, .pr-tb-col .button, .demo-btn a.demo, .demo-btn a.purchase:hover, .border-title span, ul.tabs-vertical-frame li.current a, .pr-tb-col:hover, .pr-tb-col.active, .testimonial-wrapper .nav-numbers li.active a, .copyright, .mean-container a.meanmenu-reveal {  background:#00cdcd; *background:#00cdcd !important; background:#00cdcd\0/ !important; }
+.mean-container .mean-nav { background:#ffffff }
+
+.copyright .social-media li a { background: #00aeae; }
+.copyright .social-media li a:hover { background:#009696; }
+
+#main-menu > ul > li:hover > a, #main-menu > ul > li.current_page_item > a  { color:#0ee4e4; }
+
+.contact-info h4, .contact-info a, .support-info span.call, .portfolio-title h4 a, .demo-btn span, .border-title, .pr-tb-col:hover .buy-now .button, .pr-tb-col.active .buy-now .button, .tb-header .price, .sorting-container a:hover, .sorting-container a.active-sort, .tp-caption.custom_title2 { color:#00cdcd; }
+
+
+/*----*****---- << Header >> ----*****----*/
+#header {
+	border-bottom:6px solid #00aeae;
+	/* fallback/image non-cover color */
+	background-color: #ffffff;
+}
+
+/*----*****---- << Button >> ----*****----*/
+.button { text-shadow:1px 1px 0px rgba(0, 0, 0, 0.4); color:#ffffff; border-left:1px solid #00b1b1; border-top:1px solid #00b1b1; }
+.button:hover { background:#00aeae; border-left:1px solid #009696; border-top:1px solid #009696; }
+
+.button.ico i:after { background: #00aeae; border-right: 1px solid #0ce1e1; }
+.button.ico:hover i:after { background: #008b8b; border-right: 1px solid #00cdcd; }
+
+.demo-btn a { text-shadow:1px 1px 0px rgba(0, 0, 0, 0.4); }
+.demo-btn a.demo { border-left:1px solid #0ce1e1; border-top:1px solid #00b1b1; border-right:1px solid #00cdcd;  }
+.demo-btn a.purchase { background:#00aeae; border-left:1px solid #009696; border-top:1px solid #009696; border-right:1px solid #008b8b; }
+
+.demo-btn a.demo:hover { background:#00aeae; border-left:1px solid #0ce1e1; }
+.demo-btn a.purchase:hover {  border-right:1px solid #008b8b;}
+
+/*----*****---- << Main title >> ----*****----*/
+.main-title { background: #00cdcd; box-shadow:0 -7px 6px #00aeae inset; }
+
+/*----*****---- << Services >> ----*****----*/
+.service:hover [class^="icon-"], .service:hover h4 { color:#00cdcd; }
+.service:after{ border-right:5px solid #00cdcd; }
+.service { border-bottom:5px solid #00cdcd; }
+
+.pr-tb-col:hover .tb-content li, ul.tabs-vertical-frame li.current a, ul.tabs-vertical-frame li, .pr-tb-col.active .tb-content li{ border-color: #00e5e5; }
+
+/*----*****---- << Testimonial >> ----*****----*/
+
+.testimonial-wrapper figure.testimonial-thumb > .item-mask { background:url(images/hexa-bg.png) center center no-repeat; }
+
+/*----*****---- << Pricing Table >> ----*****----*/
+.pr-tb-col:hover .tb-content li, .pr-tb-col.active .tb-content li { color:#fff; text-shadow:1px 1px 0px #5a7917; }
+
+.pr-tb-col:hover .buy-now .button, .pr-tb-col.active .buy-now .button { background:#ffffff !important; border-color:#dddddd; text-shadow:none; display:block; }
+.pr-tb-col:hover:after, .pr-tb-col.active:after {  border:5px solid #00cdcd; }
+
+/*----*****---- << Portfolio >> ----*****----*/
+.image-overlay { background:rgba(0, 205, 205, 0.9); background:#00cdcd\0/; *background:#00cdcd; }
+.portfolio:hover .portfolio-detail { background:rgba(0, 205, 205, 0.9); background:#00cdcd\0/; *background:#00cdcd; }
+.sorting-container a:hover, .sorting-container a.active-sort { border-bottom-color:#00cdcd; }
+.portfolio .image-overlay a span, .portfolio:hover .portfolio-detail .views { color: #00cdcd; }
+.portfolio:hover .image-overlay a span:hover { color:#00aeae; }
+
+/*----*****---- << Contact >> ----*****----*/
+.location h4.map-title { background:#00cdcd; }

@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3.9'
 
 services:
     apps:
@@ -10,6 +10,10 @@ services:
         image: apps:release
         container_name: setara_apps
         volumes: 
+            - ./data/assets/directory:/var/www/html/assets/directory
+            - ./data/assets/dokumen:/var/www/html/assets/dokumen
+            - ./data/assets/thumbs:/var/www/html/assets/thumbs
+            - ./data/media:/var/www/html/media
             - ./ssl:/var/www/ssl
         ports:
             - 80:8080

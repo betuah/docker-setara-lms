@@ -1,0 +1,1 @@
+mol stack rightwards harpoon over leftwards harpoon increment with 23 on top

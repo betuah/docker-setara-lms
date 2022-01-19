@@ -1,0 +1,1 @@
+open parentheses begin display style 1 over 8 end style close parentheses to the power of 4 over open parentheses begin display style 1 fourth end style close parentheses squared

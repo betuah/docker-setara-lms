@@ -1,0 +1,1 @@
+sin open parentheses 30 close parentheses plus cos open parentheses 45 close parentheses equals x

@@ -1,0 +1,1 @@
+open parentheses a. b close parentheses to the power of n equals a to the power of n. b to the power of n

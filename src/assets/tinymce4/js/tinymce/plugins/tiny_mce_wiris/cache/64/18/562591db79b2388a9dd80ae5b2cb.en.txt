@@ -1,0 +1,1 @@
+open parentheses f ring operator g close parentheses left parenthesis x right parenthesis space not equal to left parenthesis g ring operator f right parenthesis left parenthesis x right parenthesis

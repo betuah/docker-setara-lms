@@ -1,0 +1,1 @@
+fraction numerator begin display style bevelled 2 over 3 end style over denominator begin display style bevelled 1 over 6 end style end fraction

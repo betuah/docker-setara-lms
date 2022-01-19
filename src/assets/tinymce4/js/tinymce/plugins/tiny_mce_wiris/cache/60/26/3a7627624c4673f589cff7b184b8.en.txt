@@ -1,0 +1,1 @@
+open parentheses 2 over 4 close parentheses cubed equals 2 cubed over 4 cubed equals 8 over 64 equals 1 over 8

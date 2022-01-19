@@ -1,0 +1,1 @@
+sin open parentheses 30 close parentheses plus ln open parentheses 45 close parentheses equals 10 to the power of y

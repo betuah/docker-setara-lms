@@ -1,0 +1,4 @@
+open parentheses 2 X close parentheses squared equals 2 squared. space X squared space equals space 6 X squared
+open parentheses 2 X close parentheses to the power of 3 space equals space end exponent 2 cubed. X to the power of 3 space end exponent space equals space 8 X cubed
+open parentheses 6 X close parentheses to the power of 2 space end exponent. space open parentheses 8 X close parentheses to the power of 3 space end exponent equals space 12 X space. space 24 X
+X equals space 12 plus 24 space equals space 36

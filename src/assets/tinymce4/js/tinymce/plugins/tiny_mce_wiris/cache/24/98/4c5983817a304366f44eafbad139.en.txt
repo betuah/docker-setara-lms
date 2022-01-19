@@ -1,0 +1,1 @@
+left parenthesis a x b right parenthesis to the power of n equals a to the power of n x b to the power of n

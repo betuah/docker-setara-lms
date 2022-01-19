@@ -1,0 +1,1 @@
+log presuperscript a left parenthesis b cross times c right parenthesis equals log presuperscript a space b plus log presuperscript a space c

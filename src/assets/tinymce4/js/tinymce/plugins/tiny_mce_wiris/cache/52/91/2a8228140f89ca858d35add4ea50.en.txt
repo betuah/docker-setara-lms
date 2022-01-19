@@ -1,0 +1,1 @@
+fraction numerator x plus 2 over denominator x minus 3 end fraction greater or equal than 0

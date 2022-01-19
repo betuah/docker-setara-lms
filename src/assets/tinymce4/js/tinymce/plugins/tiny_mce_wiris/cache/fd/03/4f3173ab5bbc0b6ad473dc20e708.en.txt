@@ -1,0 +1,1 @@
+open parentheses negative 1 close parentheses to the power of 6

@@ -1,0 +1,1 @@
+stack C D with rightwards arrow on top space equals D space minus space C space equals space open parentheses table row cell 5 minus 1 end cell row cell 5 minus 2 end cell end table close parentheses equals open parentheses table row 4 row 3 end table close parentheses

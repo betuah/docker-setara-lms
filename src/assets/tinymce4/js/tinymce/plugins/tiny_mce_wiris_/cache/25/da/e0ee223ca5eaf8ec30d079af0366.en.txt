@@ -1,0 +1,2 @@
+a over b minus c over d equals fraction numerator a d minus b c over denominator b d end fraction
+1 over 7 minus 2 over 5 equals fraction numerator 1.5 minus 7.2 over denominator 7.5 end fraction equals fraction numerator 5 minus 14 over denominator 35 end fraction equals negative 9 over 35

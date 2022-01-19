@@ -1,0 +1,2 @@
+a to the power of n equals fraction numerator a x a x over denominator blank end fraction fraction numerator a x midline horizontal ellipsis times x a over denominator blank end fraction
+.

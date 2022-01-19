@@ -1,0 +1,5 @@
+a to the power of m cross times a to the power of n equals a to the power of m plus n end exponent
+a to the power of m divided by a to the power of n equals a to the power of m minus n end exponent
+open parentheses a to the power of m close parentheses to the power of n equals a to the power of m cross times n end exponent
+open parentheses a cross times b close parentheses to the power of n equals a to the power of n cross times b to the power of n
+open parentheses a over b close parentheses to the power of n equals a to the power of n over b to the power of n

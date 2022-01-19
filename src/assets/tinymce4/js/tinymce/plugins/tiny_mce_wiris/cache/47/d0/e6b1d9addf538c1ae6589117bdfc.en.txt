@@ -1,0 +1,1 @@
+open parentheses 3 squared close parentheses squared space x space space open parentheses italic 3 to the power of italic 4 close parentheses squared

@@ -1,0 +1,1 @@
+fraction numerator d x over denominator d y end fraction equals limit as 10 rightwards arrow infinity of

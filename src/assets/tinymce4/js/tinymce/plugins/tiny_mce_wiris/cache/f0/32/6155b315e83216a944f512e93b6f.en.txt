@@ -1,0 +1,1 @@
+open parentheses f ring operator f close parentheses left parenthesis 1 right parenthesis

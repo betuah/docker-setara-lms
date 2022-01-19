@@ -1,0 +1,1 @@
+equals 1 space open square brackets table row cell 2048 space minus end cell 1 row cell space space space space space space 1 end cell blank end table close square brackets

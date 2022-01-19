@@ -1,0 +1,1 @@
+fraction numerator a over denominator n space plus space 1 end fraction x to the power of n space plus space 1 end exponent space

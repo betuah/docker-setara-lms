@@ -1,0 +1,1 @@
+v space equals space fraction numerator d x over denominator d t end fraction i plus fraction numerator d y over denominator d t end fraction j

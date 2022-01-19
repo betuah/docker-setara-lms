@@ -1,0 +1,1 @@
+fraction numerator 4 over denominator 5 plus square root of 5 end fraction

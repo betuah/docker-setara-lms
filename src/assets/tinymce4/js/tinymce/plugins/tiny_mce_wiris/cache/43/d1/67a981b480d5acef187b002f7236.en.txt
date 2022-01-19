@@ -1,0 +1,1 @@
+√ left parenthesis 2 x plus 5 right parenthesis space space greater than 3 space left right arrow space 2 x space plus space 5 space greater than space 9 space left right arrow space 2 x space space greater than space 4 space left right arrow space x space space greater than space 2 space horizontal ellipsis space left parenthesis i right parenthesis

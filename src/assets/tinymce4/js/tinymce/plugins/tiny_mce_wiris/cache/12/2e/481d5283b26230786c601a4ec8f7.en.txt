@@ -1,0 +1,1 @@
+negative 1 less than x less or equal than 0 space a t a u space x greater or equal than 1

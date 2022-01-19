@@ -1,0 +1,1 @@
+stack a space with rightwards arrow on top equals open square brackets table row 3 row 4 end table close square brackets

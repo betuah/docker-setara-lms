@@ -70,6 +70,9 @@ USER nobody
 WORKDIR /var/www/html
 COPY --chown=nobody src/ /var/www/html/
 
+# Install dependencies
+RUN composer require mongodb/mongodb --ignore-platform-reqs
+
 # Expose the port nginx is reachable on
 EXPOSE 8080
 

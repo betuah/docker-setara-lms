@@ -1,0 +1,1 @@
+6 x plus 15 y greater or equal than 500 space comma space x plus y greater or equal than 30 space comma space x greater or equal than 0 comma space y greater or equal than 0

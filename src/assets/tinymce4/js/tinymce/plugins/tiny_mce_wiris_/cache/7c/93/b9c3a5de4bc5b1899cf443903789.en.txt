@@ -1,0 +1,1 @@
+open curly brackets table attributes columnalign left end attributes row cell x minus 5 y equals negative 15 end cell row cell negative 3 x plus y equals 17 end cell end table close

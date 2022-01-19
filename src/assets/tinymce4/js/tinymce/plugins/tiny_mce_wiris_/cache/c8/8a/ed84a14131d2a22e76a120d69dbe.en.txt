@@ -1,0 +1,1 @@
+open curly brackets x left enclose 0 less or equal than x less or equal than 7 over 2 end enclose close curly brackets

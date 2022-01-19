@@ -1,0 +1,1 @@
+n-th root of a divided by n-th root of b equals n-th root of a divided by b end root

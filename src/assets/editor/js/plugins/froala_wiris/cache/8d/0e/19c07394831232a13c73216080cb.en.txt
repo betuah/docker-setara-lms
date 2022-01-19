@@ -1,0 +1,1 @@
+open vertical bar 23 close vertical bar plus sin open parentheses 30 close parentheses equals x

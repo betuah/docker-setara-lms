@@ -1,0 +1,3 @@
+3 x space minus space 5 space greater or equal than space 0
+left right arrow space x space greater or equal than space 5 over 3
+2. space x space plus space 1 space greater or equal than space 0 space left right arrow space x space greater or equal than space minus 1
