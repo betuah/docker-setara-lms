@@ -39,9 +39,6 @@ RUN curl -sS https://getcomposer.org/installer -o composer-setup.php
 RUN php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 RUN rm -rf composer-setup.php
 
-# Run composer install to install the dependencies
-# RUN composer install --optimize-autoloader --no-interaction --no-progress
-
 # Configure nginx
 COPY config/nginx/default.conf /etc/nginx/httpd.d/default.conf
 COPY config/nginx/nginx.conf /etc/nginx/nginx.conf
@@ -56,6 +53,10 @@ COPY config/supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 # Setup document root
 RUN mkdir -p /var/www/html
 RUN mkdir -p /var/www/ssl
+
+# Run composer install to install the dependencies
+# RUN composer install --optimize-autoloader --no-interaction --no-progress
+RUN composer require mongodb/mongodb --working-dir /var/www/html
 
 # Make sure files/folders needed by the processes are accessable when they run under the nobody user
 RUN chown -R nobody.nobody /var/www/html && \
