@@ -69,7 +69,7 @@ USER nobody
 
 # Add application
 WORKDIR /var/www/html
-COPY --chown=nobody src/ /var/www/html/
+# COPY --chown=nobody src/ /var/www/html/
 
 # Install dependencies
 RUN composer require mongodb/mongodb --ignore-platform-reqs
