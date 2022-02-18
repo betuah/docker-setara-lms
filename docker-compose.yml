@@ -10,6 +10,7 @@ services:
         image: apps:release
         container_name: setara_apps
         volumes: 
+            - ./src:/var/www/html
             - ./data/assets/directory:/var/www/html/assets/directory
             - ./data/assets/dokumen:/var/www/html/assets/dokumen
             - ./data/assets/thumbs:/var/www/html/assets/thumbs
@@ -19,6 +20,8 @@ services:
             - 80:8080
         networks: 
             - setara_network
+        links:
+            - setara_mongo_db:mongodb
         depends_on: 
             - setara_mongo_db
 
@@ -31,7 +34,7 @@ services:
         volumes:
             # - ./db/init_mongo.js:/docker-entrypoint-initdb.d/init_mongo.js:ro
             # - ./mongorestore.sh:/docker-entrypoint-initdb.d/mongorestore.sh
-            # - ./data/backup:/backup
+            - ./data/backup:/backup
             - setara_mongo_data:/data/db
         ports:
             - 27017:27017
