@@ -8,6 +8,7 @@ services:
             args:
                 PHP_VERSION: 7.4-fpm-alpine
         image: apps:release
+        restart: always
         container_name: setara_apps
         volumes: 
             - ./src:/var/www/html
@@ -27,6 +28,7 @@ services:
 
     setara_mongo_db:
         image: mongo:latest
+        restart: always
         container_name: setara_mongo_db
         environment:
             - MONGO_INITDB_ROOT_USERNAME=${MONGO_USER}
