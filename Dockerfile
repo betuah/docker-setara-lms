@@ -1,4 +1,4 @@
-FROM alpine:3.15
+FROM alpine:latest
 
 LABEL Maintainer="Betuah Anugerah <betuahanugerah@gmail.com>"
 
@@ -30,6 +30,10 @@ RUN apk --no-cache add \
     php7-pecl-redis \
     php7-pecl-mongodb
 
+RUN apk --update add --virtual build-dependencies build-base openssl-dev autoconf gcc musl-dev make \
+  && pecl install mongodb \
+  && apk del build-dependencies build-base openssl-dev autoconf gcc musl-dev make\
+  && rm -rf /var/cache/apk/*
 
 # Create symlink so programs depending on `php` still function
 # RUN ln -s /usr/bin/php7 /usr/bin/php
